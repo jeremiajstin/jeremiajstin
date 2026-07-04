@@ -28,7 +28,7 @@ I'm an undergraduate **Data Science student** at Telkom University, highly passi
 ---
 
 ### 📁 Featured Projects
-*   **[PortoFolioX Simulator](https://github.com/jeremiajstin/stock-portfolio)** - Premium real-time financial market analytics dashboard using Vanilla JS, Chart.js, and automated statistical forecasting models (ARMA/SARMA & Fibonacci overlays)[cite: 2, 4].
+*   **[PortoFolioX Simulator](https://github.com/jeremiajstin/stock-portfolio)** - Premium real-time financial market analytics dashboard using Vanilla JS, Chart.js, and automated statistical forecasting models (ARMA/SARMA & Fibonacci overlays).
 *   **[Dashboard - ProcessMap](https://github.com/jeremiajstin/ProcessMap)** - Dynamic web-based enterprise mapping and user role validation system built on Java JSP architecture.
 *   **[Synthetic Data Benchmarking for Diabetes Risk](https://github.com/jeremiajstin/diabetes-risk-prediction)** - Comparative undergraduate research evaluating CTGAN vs SMOTE-GAN metrics performance on Random Forest classifiers.
 *   **[Tubes-ADW](https://github.com/jeremiajstin/Tubes-ADW)** - Comprehensive time series analysis project evaluating daily average humidity datasets.
