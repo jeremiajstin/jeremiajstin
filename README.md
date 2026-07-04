@@ -7,7 +7,7 @@ I'm an undergraduate **Data Science student** at Telkom University, highly passi
 - 🚀 Exploring advanced synthetic data generation methods (**CTGAN, SMOTE-GAN**) for predictive analytics
 - 💻 Building modern full-stack data analytics platforms with glassmorphism UI
 - 🛠️ Benchmarking distributed databases & NoSQL environments (MongoDB, ClickHouse, Redis, HBase, ArangoDB)
-- 🎯 Actively seeking **Data Science / Software Engineer Internship** opportunities for this semester break!
+- 🎯 Actively seeking **Data Analyst** opportunities for this semester break!
 
 ---
 
